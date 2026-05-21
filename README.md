@@ -9,7 +9,8 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Algorithm
 1. Initialize Parameters and Dataset Load the dataset, define input features (X) and target values (y), initialize weights, bias, learning rate, and number of iterations. Compute Predictions Using Sigmoid Function Calculate the linear combination of inputs and apply the sigmoid function to obtain predicted probabilities.
-2. Update Parameters Using Gradient Descent Compute the gradients of the cost function and update the weights and bias iteratively to minimize prediction error. 3. Train and Evaluate the Model 4.Repeat the update process until convergence, then predict class labels and evaluate the model performance using accuracy metrics.
+2. Update Parameters Using Gradient Descent Compute the gradients of the cost function and update the weights and bias iteratively to minimize prediction error.  3. Train and Evaluate the Model. 
+4.Repeat the update process until convergence, then predict class labels and evaluate the model performance using accuracy metrics.
 
 ## Program:
 ```
